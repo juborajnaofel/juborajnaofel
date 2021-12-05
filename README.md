@@ -6,11 +6,10 @@ My name is I.E.U. Juboraj Naofel.
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=juborajnaofel&label=Profile%20views&color=0e75b6&style=flat" alt="juborajnaofel" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juborajnaofel" alt="juborajnaofel" /></a> </p>
-
-<h3>Skills:</h3>
 <hr>
+<h3>Skills:</h3>
 C/C++, Python, JavaScript, PHP, HTML, CSS, Git, Linux, RestAPI, Laravel, Django, Bootstrap, MySQL, PostgresQL, Machine Learning, MS office, Leadership, Teaching, Communication, Public speaking, Research.
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juborajnaofel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juborajnaofel" height="30" width="40" /></a>

@@ -1,3 +1,5 @@
+
+<div align="center">
 ### Hi there 👋
 My name is I.E.U. Juboraj Naofel.
 
@@ -27,3 +29,4 @@ My name is I.E.U. Juboraj Naofel.
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juborajnaofel&show_icons=true&locale=en" alt="juborajnaofel" /></p>
+</div>

@@ -1,8 +1,6 @@
 
 <div align="center">
 ### Hi there 👋
-<br>
-<img src="https://raw.githubusercontent.com/juborajnaofel/juborajnaofel/main/software%20developer.gif" height="100px" /><br>
 My name is I.E.U. Juboraj Naofel.
 
 <a href="https://sites.google.com/view/i-e-u-juboraj-naofel">https://sites.google.com/view/i-e-u-juboraj-naofel</a>
@@ -11,7 +9,7 @@ My name is I.E.U. Juboraj Naofel.
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=juborajnaofel&label=Profile%20views&color=0e75b6&style=flat" alt="juborajnaofel" /> </p>-->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juborajnaofel" alt="juborajnaofel" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=juborajnaofel&theme=juicyfresh&row=1&column=7" alt="juborajnaofel" /></a> </p>
 <hr>
 
 
@@ -30,5 +28,5 @@ My name is I.E.U. Juboraj Naofel.
 <a href="https://www.youtube.com/c/judemy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="judemy" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juborajnaofel&show_icons=true&locale=en" alt="juborajnaofel" /></p>
+<p><img width="70%" src="https://github-readme-stats.vercel.app/api?username=juborajnaofel&show_icons=true&locale=en&theme=radical" alt="juborajnaofel" /></p>
 </div>

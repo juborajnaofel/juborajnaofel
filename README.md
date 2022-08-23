@@ -1,6 +1,8 @@
 
 <div align="center">
 ### Hi there 👋
+<br>
+<img src="https://raw.githubusercontent.com/juborajnaofel/juborajnaofel/main/software%20developer.gif" height="100px" /><br>
 My name is I.E.U. Juboraj Naofel.
 
 <a href="https://sites.google.com/view/i-e-u-juboraj-naofel">https://sites.google.com/view/i-e-u-juboraj-naofel</a>

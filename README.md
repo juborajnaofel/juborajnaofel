@@ -7,7 +7,7 @@ Welcome! I have studied in BSc in Computer Science and Engineering at United Int
 
 I enjoy programming, web development, teaching, and leadership in addition to research. I am currently employed in Entertech, Dhaka, Bangladesh, as a Software Engineer. I'm also the Vice President of the UIU APP Forum, a Machine Learning and App development community. I have worked at Janata Wifi ltd as an Intern Full-stack developer.
 
-A Tutorial channel of mine has 2077+ subscribers where I make tutorials on CSE courses. I have created several playlists. Discrete Mathematics is the playlist that is appreciated more by my viewers.
+A Tutorial channel of mine has 2500+ subscribers where I make tutorials on CSE courses. I have created several playlists. Discrete Mathematics is the playlist that is appreciated more by my viewers.
 </p>
 <p>
 <a href="https://linkedin.com/in/juborajnaofel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juborajnaofel" height="30" width="40" /></a>

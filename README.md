@@ -16,7 +16,7 @@ A Tutorial channel of mine has 2610+ subscribers where I make tutorials on CSE c
 </p>
 <a href="https://sites.google.com/view/i-e-u-juboraj-naofel">https://sites.google.com/view/i-e-u-juboraj-naofel</a>
 
-<h3 align="center">A passionate Fullstack Software Developer from Bangladesh</h3>
+<h3 align="center">A passionate Fullstack Software Engineer from Bangladesh</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=juborajnaofel&label=Profile%20views&color=0e75b6&style=flat" alt="juborajnaofel" /> </p>-->
 

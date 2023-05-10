@@ -3,10 +3,9 @@
 ### Hi there 👋<br>
 My name is I.E.U. Juboraj Naofel.
 <p align="left">
-Welcome! I have studied in BSc in Computer Science and Engineering at United International University. My research interest includes Machine Learning, Computer Vision, Gait Dynamics.
+Welcome!
 
-I enjoy programming, web development, teaching, and leadership in addition to research. I am currently employed in Entertech, Dhaka, Bangladesh, as a Software Engineer. I'm also the Vice President of the UIU APP Forum, a Machine Learning and App development community. I have worked at Janata Wifi ltd as an Intern Full-stack developer.
-
+I enjoy programming, web development, teaching, and leadership. I am currently employed in Codeshaper, Dhaka, Bangladesh, as a Software Engineer.
 A Tutorial channel of mine has 2934+ subscribers where I make tutorials on CSE courses. I have created several playlists. Discrete Mathematics is the playlist that is appreciated more by my viewers.
 </p>
 <p>

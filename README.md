@@ -29,6 +29,6 @@ A Tutorial channel of mine has 2934+ subscribers where I make tutorials on CSE c
 <hr>
 </div>
 
-
-<p align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=juborajnaofel&show_icons=true&locale=en&theme=radical" alt="juborajnaofel" /></p>
+<!--
+<p align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=juborajnaofel&show_icons=true&locale=en&theme=radical" alt="juborajnaofel" /></p> -->
 

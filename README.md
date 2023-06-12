@@ -3,10 +3,11 @@
 ### Hi there 👋<br>
 My name is I.E.U. Juboraj Naofel.
 <p align="left">
-Welcome!
+I extend a warm welcome to you. Please allow me to introduce myself. I am I.E.U. Juboraj Naofel, a software engineer currently working at Codeshaper in Dhaka, Bangladesh. Within my professional endeavors, I derive great satisfaction from engaging in programming, web development, teaching, and leadership roles.
 
-I enjoy programming, web development, teaching, and leadership. I am currently employed in Codeshaper, Dhaka, Bangladesh, as a Software Engineer.
-A Tutorial channel of mine has 2934+ subscribers where I make tutorials on CSE courses. I have created several playlists. Discrete Mathematics is the playlist that is appreciated more by my viewers.
+Alongside my primary occupation, I maintain a tutorial channel with a substantial following of 3,000 subscribers. Through this platform, I diligently produce educational content covering various computer science and engineering courses. Notably, I have curated numerous playlists, with one in particular garnering significant praise and attention from my viewers—Discrete Mathematics.
+
+Thank you for your attention.
 </p>
 <p>
 <a href="https://linkedin.com/in/juborajnaofel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juborajnaofel" height="30" width="40" /></a>

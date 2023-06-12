@@ -42,7 +42,7 @@ Here you will find a comprehensive list of my professional skills and expertise.
 
 <h3> Education </h3>
 
-- Bachelor of Science in Computer Science (BSc. CS)
+- Bachelor of Science in Computer Science and Engineering (BSc. CSE)
 
 For a more detailed overview of my professional background and experiences, please visit my [LinkedIn profile](https://www.linkedin.com/in/juborajnaofel/).
 </div>

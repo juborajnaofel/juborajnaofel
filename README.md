@@ -21,40 +21,26 @@ Thank you for your attention.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=juborajnaofel&theme=juicyfresh&row=1&column=7" alt="juborajnaofel" /></a> </p>
 <hr>
-## Juboraj Naofel's Skills
+
+<h2> Juboraj Naofel's Skills </h2>
 
 Here you will find a comprehensive list of my professional skills and expertise. I am passionate about programming, web development, teaching, and leadership. Feel free to explore the skills I have acquired throughout my career.
 
-# Technical Skills
+<h3> Technical Skills </h3>
 
-- Programming Languages: JavaScript, Python, Java, C++
-- Web Development: HTML, CSS, JavaScript, React, Node.js, Express.js
-- Database Technologies: MySQL, MongoDB
+- Programming Languages: PHP, JavaScript, Python, Java, C/C++
+- Web Development: HTML, CSS, Laravel, Vue, React, Node.js, Express.js, Tailwind, Ajax, JQuery, Bootstrap
+- Database Technologies: MySQL, PostgresQl
 - Version Control: Git, GitHub
 - Software Development: Agile Methodologies, Scrum
 - Data Structures and Algorithms
 - Object-Oriented Programming (OOP)
 - Test-Driven Development (TDD)
 - RESTful APIs
+- Machine Learning
 
-# Teaching and Communication Skills
 
-- Classroom Instruction
-- Educational Content Creation
-- Curriculum Development
-- Public Speaking
-- Written and Verbal Communication
-
-# Leadership and Teamwork Skills
-
-- Project Management
-- Team Collaboration
-- Problem Solving
-- Decision Making
-- Adaptability
-- Time Management
-
-# Education
+<h3> Education </h3>
 
 - Bachelor of Science in Computer Science (BSc. CS)
 

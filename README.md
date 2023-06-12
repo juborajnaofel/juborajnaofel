@@ -27,17 +27,19 @@ Thank you for your attention.
 Here you will find a comprehensive list of my professional skills and expertise. I am passionate about programming, web development, teaching, and leadership. Feel free to explore the skills I have acquired throughout my career.
 
 <h3> Technical Skills </h3>
+# Juboraj Naofel's Skills
 
-- Programming Languages: PHP, JavaScript, Python, Java, C/C++
-- Web Development: HTML, CSS, Laravel, Vue, React, Node.js, Express.js, Tailwind, Ajax, JQuery, Bootstrap
-- Database Technologies: MySQL, PostgresQl
-- Version Control: Git, GitHub
-- Software Development: Agile Methodologies, Scrum
-- Data Structures and Algorithms
-- Object-Oriented Programming (OOP)
-- Test-Driven Development (TDD)
-- RESTful APIs
-- Machine Learning
+Welcome to my profile! Here you will find a comprehensive list of my professional skills and expertise. I am passionate about programming, web development, teaching, and leadership. Feel free to explore the skills I have acquired throughout my career.
+
+| Category                 | Skills                                                                                          |
+| ------------------------ | ----------------------------------------------------------------------------------------------- |
+| Programming Languages    | PHP, JavaScript, Python, Java, C/C++                                                            |
+| Web Development          | HTML, CSS, Laravel, Vue, React, Node.js, Express.js, Tailwind, Ajax, JQuery, Bootstrap          |
+| Database Technologies    | MySQL, PostgreSQL                                                                               |
+| Version Control          | Git, GitHub                                                                                     |
+| Software Development     | Agile Methodologies, Scrum, Test-Driven Development (TDD)                                       |
+|  APIs                    |    RESTful API, Postmen                                                                         |
+| Machine Learning         |  Scikitlearn, numpy, pandas, matplotlib                                                         |
 
 
 <h3> Education </h3>

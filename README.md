@@ -1,9 +1,8 @@
 
 <div align="left">
 ### Hi there 👋<br>
-My name is I.E.U. Juboraj Naofel.
 <p align="left">
-I extend a warm welcome to you. Please allow me to introduce myself. I am I.E.U. Juboraj Naofel, a software engineer currently working at Codeshaper in Dhaka, Bangladesh. Within my professional endeavors, I derive great satisfaction from engaging in programming, web development, teaching, and leadership roles.
+I extend a warm welcome to you. Please allow me to introduce myself. I am <b>I.E.U. Juboraj Naofel</b>, a software engineer currently working at Codeshaper in Dhaka, Bangladesh. Within my professional endeavors, I derive great satisfaction from engaging in programming, web development, teaching, and leadership roles.
 
 Alongside my primary occupation, I maintain a tutorial channel with a substantial following of 3,000 subscribers. Through this platform, I diligently produce educational content covering various computer science and engineering courses. Notably, I have curated numerous playlists, with one in particular garnering significant praise and attention from my viewers—Discrete Mathematics.
 

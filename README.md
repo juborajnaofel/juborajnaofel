@@ -28,9 +28,9 @@ Welcome to my profile! Here you will find a comprehensive list of my professiona
 | Web Development          | HTML, CSS, Laravel, Vue, React, Node.js, Express.js, Tailwind, Ajax, JQuery, Bootstrap          |
 | Database Technologies    | MySQL, PostgreSQL                                                                               |
 | Version Control          | Git, GitHub                                                                                     |
-| Software Development     | Agile Methodologies, Scrum, Test-Driven Development (TDD), DSA, OOP                             |
-|  APIs                    | RESTful API, Postmen                                                                            |
-| Machine Learning         |  Scikitlearn, numpy, pandas, matplotlib                                                         |
+| Software Development     | DSA, OOP                                                                                        |
+| APIs                     | RESTful API, Postmen                                                                            |
+| Machine Learning         | Scikitlearn, numpy, pandas, matplotlib                                                          |
 
 
 <h3> Education </h3>

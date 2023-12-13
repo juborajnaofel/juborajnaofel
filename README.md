@@ -6,7 +6,7 @@ I extend a warm welcome to you. Please allow me to introduce myself. I am <b>I.E
 
 Alongside my primary occupation, I maintain a tutorial channel with a substantial following of 3,000 subscribers. Through this platform, I diligently produce educational content covering various computer science and engineering courses. Notably, I have curated numerous playlists, with one in particular garnering significant praise and attention from my viewers—Discrete Mathematics.
 
-<h3 align="center">A passionate Fullstack Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=juborajnaofel&label=Profile%20views&color=0e75b6&style=flat" alt="juborajnaofel" /> </p>-->
 

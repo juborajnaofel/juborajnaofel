@@ -26,16 +26,7 @@ Alongside my primary occupation, I maintain a tutorial channel with a substantia
 
 Here you will find a comprehensive list of my professional skills and expertise. I am passionate about programming, web development, teaching, and leadership. Feel free to explore the skills I have acquired throughout my career.
 
-<h3> █ █ █ ██████ Technical Skills  ██████ █ █ █</h3>
-.-----------------------------------------------------------------------------------.<br>
-| [Esc]&nbsp;[F1]&nbsp;[F2]&nbsp;[F3]&nbsp;[F4]&nbsp;[F5]&nbsp;[F6]&nbsp;[F7]&nbsp;[F8]&nbsp;[F9]&nbsp;[F0]&nbsp;[F10]&nbsp;[F11]&nbsp;[F12] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
-|-----------------------------------------------------------------------------------|<br>
-| [ ` ]&nbsp;[1]&nbsp;[2]&nbsp;[3]&nbsp;[4]&nbsp;[5]&nbsp;[6]&nbsp;[7]&nbsp;[8]&nbsp;[9]&nbsp;[0]&nbsp;[-]&nbsp;[=]&nbsp;[<--]&nbsp;[Num] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
-| [Tab]&nbsp;[Q]&nbsp;[W]&nbsp;[E]&nbsp;[R]&nbsp;[T]&nbsp;[Y]&nbsp;[U]&nbsp;[I]&nbsp;[O]&nbsp;[P]&nbsp;[ ]&nbsp;[(]&nbsp;[)]&nbsp;[|]&nbsp;[7] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
-| [Ctrl]&nbsp;[A]&nbsp;[S]&nbsp;[D]&nbsp;[F]&nbsp;[G]&nbsp;[H]&nbsp;[J]&nbsp;[K]&nbsp;[L]&nbsp;[;]&nbsp;[']&nbsp;[#]&nbsp;[Enter] [4] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
-| [Shift]&nbsp;[\]&nbsp;[Z]&nbsp;[X]&nbsp;[C]&nbsp;[V]&nbsp;[B]&nbsp;[N]&nbsp;[M]&nbsp;[,]&nbsp;[.]&nbsp;[/]&nbsp;[&nbsp;↑&nbsp;]     [5] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
-| [Caps]&nbsp;[&nbsp;☻&nbsp;]&nbsp;[Alt] [&nbsp;Space&nbsp;] [Alt]&nbsp;[&nbsp;◄&nbsp;]&nbsp;[&nbsp;▼&nbsp;]&nbsp;[&nbsp;►&nbsp;] [6] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
-`------------------------------------------------------------------------------------'<br>
+<h3>█ Technical Skills  ██████ █ █ █ █████████████████████████████████████</h3>
 
 | Category                 | Skills                                                                                          |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |

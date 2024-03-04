@@ -26,8 +26,6 @@ Alongside my primary occupation, I maintain a tutorial channel with a substantia
 
 Here you will find a comprehensive list of my professional skills and expertise. I am passionate about programming, web development, teaching, and leadership. Feel free to explore the skills I have acquired throughout my career.
 
-<h3>█ Technical Skills  ██████ █ █ █ █████████████████████████████████████</h3>
-
 | Category                 | Skills                                                                                          |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
 | Programming Languages    | PHP, JavaScript, Python, Java, C/C++                                                            |

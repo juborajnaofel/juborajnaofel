@@ -11,9 +11,78 @@
 
 ### Hi there 👋<br>
 <p align="left">
-I extend a warm welcome to you. Please allow me to introduce myself. I am <b>I.E.U. Juboraj Naofel</b>, a software engineer currently working at Codeshaper in Dhaka, Bangladesh. Within my professional endeavors, I derive great satisfaction from engaging in programming, web development, teaching, and leadership roles.
 
-Alongside my primary occupation, I maintain a tutorial channel with a substantial following of 3,000 subscribers. Through this platform, I diligently produce educational content covering various computer science and engineering courses. Notably, I have curated numerous playlists, with one in particular garnering significant praise and attention from my viewers—Discrete Mathematics.
+🌟 In today's fast-paced tech world, where software solutions drive business innovation, I am a highly motivated software engineer with a track record of success. With over 2 years of hands-on experience designing, developing, and implementing software solutions, I am eager to take on a challenging role in a dynamic organization. My goal is to leverage my technical expertise to contribute to the success of innovative software projects.
+
+🎓 My journey began with a solid foundation in Computer Science and Engineering, culminating in a BSc degree from United International University in Dhaka, Bangladesh (📚 CGPA: 3.84/4.00, Jan 2017 - July 2021).
+
+💻 My technical skills span a wide spectrum, including languages such as PHP, JavaScript, Python, Java, and C/C++. On the frontend, I'm proficient in Blade, React JS, Vue JS, and Inertia JS, complemented by HTML, CSS, JQuery, and Bootstrap. In backend development, I excel with Laravel, REST API, Node, and Express, ensuring robust systems. I also have mobile development skills with React Native Expo and expertise in MySQL and PostgreSQL databases.
+
+🚀 Professionally, I've excelled at Codeshaper as a Software Developer, delivering high-quality software using PHP, JavaScript, React, Vue, Laravel, and Inertia. At Entertech, I contributed to PHP, JavaScript, React, Laravel, React Native, Node, and Express projects, showcasing versatility in web and mobile app development. As a Full Stack Developer intern at Janata WIFI Ltd, I developed Python, DRF, Django, and REST API applications, emphasizing quality and reliability.
+
+🌐 Beyond technical roles, I've thrived in leadership at UIU APP FORUM, serving as Advisor, Vice President, Instructor, and Associate Event Manager, fostering community growth through events and workshops.
+
+🔍 In conclusion, I am a dedicated software engineer with a passion for innovation and a proven ability to deliver results. Ready to tackle new challenges and contribute effectively to dynamic software projects!
+
+
+## Education
+
+🎓 Bachelor of Science, Department of Computer Science and Engineering
+
+📅 January 2017 - July 2021
+
+🎓 CGPA: 3.84 / 4.00
+
+🏫 United International University, Dhaka, Bangladesh
+
+
+
+
+## Job history:
+
+Software Developer
+
+Codeshaper, Dhaka, Bangladesh
+
+(Nov 2022 - June 2024)
+
+🚀 Contributed to the design and development of software solutions using PHP, Javascript, React, Vue, Laravel, RestApi, Inertia.
+
+👥 Collaborated with a team of developers to deliver high-quality software within tight deadlines.
+
+🛠️ Assisted in troubleshooting and resolving software defects and performance issues.
+
+🌐 Worked on SaaS, ERP, Management systems, Multitenant projects.
+
+<br>
+
+
+Software Engineer
+
+Entertech, Dhaka, Bangladesh
+
+(Feb 2022 - Sep 2022 · 8 months)
+
+🌟 Contributed to the design and development of Client projects using PHP, Javascript, React, Laravel, React Native, Node, Express.
+
+👥 Collaborated with a team of developers to deliver high-quality software within tight deadlines.
+
+🌐 Worked on Web and Cross platform mobile app projects.
+<br>
+
+
+Intern Full Stack Developer
+
+Janata WIFI Ltd, Dhaka, Bangladesh
+
+(Sep 2021 - Nov 2021 · 3 months)
+
+🌐 Developed and maintained software applications using Python, DRF, Django, REST API, PostgresQL.
+
+🔍 Conducted thorough testing and debugging to ensure software quality and reliability.
+<br>
+
+
 
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 

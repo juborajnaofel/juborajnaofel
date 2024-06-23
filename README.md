@@ -69,6 +69,7 @@ Entertech, Dhaka, Bangladesh
 
 🌐 Worked on Web and Cross platform mobile app projects.
 <br>
+<br>
 
 
 Intern Full Stack Developer

@@ -12,7 +12,7 @@
 ### Hi there 👋<br>
 <p align="left">
 
-🌟 In today's fast-paced tech world, where software solutions drive business innovation, I am a highly motivated software engineer with a track record of success. With over 2 years of hands-on experience designing, developing, and implementing software solutions, I am eager to take on a challenging role in a dynamic organization. My goal is to leverage my technical expertise to contribute to the success of innovative software projects.
+🌟 In today's fast-paced tech world, where software solutions drive business innovation, I am a highly motivated software engineer with a track record of success. With over 3 years of professional experience designing, developing, and implementing software solutions, I am eager to take on a challenging role in a dynamic organization. My goal is to leverage my technical expertise to contribute to the success of innovative software projects.
 
 🎓 My journey began with a solid foundation in Computer Science and Engineering, culminating in a BSc degree from United International University in Dhaka, Bangladesh (📚 CGPA: 3.84/4.00, Jan 2017 - July 2021).
 

@@ -120,7 +120,7 @@ For a more detailed overview of my professional background and experiences, plea
 <a href="https://medium.com/@juborajnaofel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@juborajnaofel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/judemy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="judemy" height="30" width="40" /></a>
 </p>
-<a href="https://sites.google.com/view/i-e-u-juboraj-naofel">https://sites.google.com/view/i-e-u-juboraj-naofel</a>
+<a href="https://juborajnaofel.xyz">https://juborajnaofel.xyz</a>
 </div>
 
 <!--
